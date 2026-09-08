@@ -243,4 +243,4 @@ This repository serves as the official landing page for Twitch. The software is 
 **Get the most recent version of Twitch today!**
 
 ---
-**Last updated:** 2026-09-08 20:34:57 UTC
+**Last updated:** 2026-09-08 23:06:24 UTC
